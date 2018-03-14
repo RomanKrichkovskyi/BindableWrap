@@ -1,0 +1,11 @@
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\bin\Debug\netstandard2.0\BindableWrap.deps.json
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\bin\Debug\netstandard2.0\BindableWrap.dll
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\bin\Debug\netstandard2.0\BindableWrap.pdb
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.csprojResolveAssemblyReference.cache
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.App.xaml.g.cs
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.MainPage.xaml.g.cs
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.AssemblyInfoInputs.cache
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.AssemblyInfo.cs
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.dll
+C:\Users\roman\source\repos\BindableWrap\BindableWrap\BindableWrap\obj\Debug\netstandard2.0\BindableWrap.pdb
